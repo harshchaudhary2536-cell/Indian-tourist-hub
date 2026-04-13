@@ -84,7 +84,7 @@ Since this project is hosted on Blogger:
 
 ## 🙋 Author
 
-**Name:** Avani garg  
+**Name:** Harsh Kumar Chaudhary  
 **Class/Project:** ICT Project  
 **Platform:** Blogger  
 
