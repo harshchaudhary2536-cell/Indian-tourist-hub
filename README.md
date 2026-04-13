@@ -74,14 +74,6 @@ Since this project is hosted on Blogger:
 
 ---
 
-## 📸 Screenshots
-
-(Add screenshots here)
-
-
-
----
-
 ## 🙋 Author
 
 **Name:** Harsh Kumar Chaudhary  
